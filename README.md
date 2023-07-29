@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Allmony
+- 👋 Hi, I’m @Shreyans
 - 👀 I’m interested in programming, sports. 
 - 🌱 I’m currently learning python, flask, html css bootstrap, laravel. 
 - 💞️ I’m looking to collaborate on making an erp software.
